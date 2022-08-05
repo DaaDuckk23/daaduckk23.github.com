@@ -1,0 +1,108 @@
+@font-face {
+
+
+    font-family: Font_2;
+    src: url("Kumbh_Sans/static/KumbhSans-Thin.ttf");
+
+
+  }
+
+@font-face {
+    font-family: Font;
+    src: url("Kumbh_Sans/static/KumbhSans-Bold.ttf");
+}
+@font-face {
+    font-family: Font_3;
+    src: url("Kumbh_Sans/static/KumbhSans-ExtraBold.ttf");
+}
+@font-face {
+    font-family: Font_4;
+    src: url("Kumbh_Sans/static/KumbhSans-Regular.ttf");
+}
+  
+html{
+    margin-left: 10%;
+    margin-right: 10%;
+
+
+}
+
+.bold{
+    margin-right: 50px;
+    margin-left: 50px;
+    font-family: Font;
+    font-size: 180%;
+    color: black;
+
+}
+
+h3{
+    color:  #c8c8c8;
+    font-family: Font_2;
+    font-size: 80%;
+    
+}
+
+hr{
+    margin-top: 2%;
+    width:90%;
+
+}
+
+.shopping_cart{
+    margin-left: 24%;
+    margin-right: 10%;
+    
+}
+
+.Shoe_1{
+    width: 35%;
+    height: 35%;
+    float: left; 
+    margin-right: 8%;
+    margin-left: 8%;
+    margin-top: 5%;
+    border-radius: 10px;
+
+}
+
+.Sneaker_Company{
+    font-family: Font_3;
+    margin-top: 7%;
+    color: #ff7d1a;
+}
+
+h1{
+    font-family: Font;
+}
+
+h2{
+    font-family: Font;
+}
+
+p {
+    font-family: Font_4;
+    font-size: 80%;
+    margin-right: 13%;
+    margin-bottom: 3%;
+}
+
+
+.button{ 
+    color: #ff7d1a;
+    background: #ffede0;
+    font-size: 80%;
+    display: inline-flex;
+    padding-top: 2px;
+    padding-right: 5px;
+    padding-left: 5px;
+    border: none;
+    border-radius: 5px;
+}
+
+h4{
+    text-decoration: line-through;
+     color: #9e9e9e;
+     font-family: Font_2;
+
+}
